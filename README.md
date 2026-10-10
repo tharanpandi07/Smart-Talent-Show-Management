@@ -111,10 +111,10 @@ register/mobile number.
 ![Team Formation](screenshots/Screenshot%202026-07-24%20185653.png))
 
 ### Events Page
-![Events Page](screenshots/Screenshot%202026-07-24%20185123.png)
+![Events Page](screenshots/Screenshot%202026-07-24%20185744.png)
 
 ### Talent Page
-![Talent Page](screenshots/Screenshot%202026-07-24%20185436.png)
+![Talent Page](screenshots/Screenshot%202026-07-24%20185910.png)
 
 ### Team Formation
-![Team Formation](screenshots/Screenshot%202026-07-24%20185653.png)
+![Team Formation](screenshots/Screenshot%202026-07-24%201.png)

@@ -1,0 +1,21 @@
+# React
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/.env.*
+
+# Java / Spring Boot
+backend/target/
+backend/.env
+backend/.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+*.log
+
+backend/uploads/

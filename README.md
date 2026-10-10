@@ -95,3 +95,26 @@ register/mobile number.
 | 6. Upcoming Events | `GET /api/events?departmentId=it` |
 | 7. Event Details | `GET /api/events/{id}?studentId={id}`, `POST /api/events/{id}/register` |
 | 8. My Profile | `GET /api/profile/{studentId}` |
+
+## Project Screenshots
+
+### Login Page
+![Home Page](screenshots/Screenshot%202026-07-24%20184439.png)
+
+### Events Page
+![Events Page](screenshots/Screenshot%202026-07-24%20185123.png)
+
+### Talent Page
+![Talent Page](screenshots/Screenshot%202026-07-24%20185436.png)
+
+### Team Formation
+![Team Formation](screenshots/Screenshot%202026-07-24%20185653.png))
+
+### Events Page
+![Events Page](screenshots/Screenshot%202026-07-24%20185123.png)
+
+### Talent Page
+![Talent Page](screenshots/Screenshot%202026-07-24%20185436.png)
+
+### Team Formation
+![Team Formation](screenshots/Screenshot%202026-07-24%20185653.png)

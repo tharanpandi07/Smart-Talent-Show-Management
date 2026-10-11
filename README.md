@@ -101,7 +101,7 @@ register/mobile number.
 ### Login Page
 ![Home Page](screenshots/Screenshot%202026-07-24%20184439.png)
 
-### Events Page
+### Talent Category
 ![Events Page](screenshots/Screenshot%202026-07-24%20185123.png)
 
 ### Talent Page
@@ -110,11 +110,11 @@ register/mobile number.
 ### Team Formation
 ![Team Formation](screenshots/Screenshot%202026-07-24%20185653.png))
 
-### Events Page
+### Upcoming Events
 ![Events Page](screenshots/Screenshot%202026-07-24%20185744.png)
 
-### Talent Page
+### Profile
 ![Talent Page](screenshots/Screenshot%202026-07-24%20185910.png)
 
-### Team Formation
-![Team Formation](screenshots/Screenshot%202026-08-24%20113929.png)
+### Home
+![Team Formation](screenshots/Screenshot%202026-08-18%20113929.png)
